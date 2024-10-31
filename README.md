@@ -90,7 +90,7 @@ Também acesso do vídeo por esse link do drive [link](https://drive.google.com/
 
 
 
-#### Avaliador: Raphael
+#### Avaliador: Raphael Silva
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
